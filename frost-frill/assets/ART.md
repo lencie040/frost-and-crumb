@@ -1,0 +1,6 @@
+# フローズンフリルの生成アート
+
+Method: built-in image_gen tool, transparent background, reference: user's original character 3152.png. Original reference file is not redistributed in this repository.
+
+Prompt:
+Use case: stylized-concept. Create a production game character sprite of Frozen Frill Cookie using the attached original character as identity reference. Translate her into a Cookie Run Kingdom-like cute flat 2D cookie fantasy RPG character, entirely original character. Full body, centered, transparent background, no text, no border, no ground. Cookie proportions: very large round head, tiny squat biscuit body and stubby limbs, warm pale baked cookie skin with subtly darker biscuit edges. Preserve long flowing icy cyan hair with pointed crown-like bangs, tiny pink heart/macaroon ornament on upper right, large blue eyes and gentle slightly smug smile, white frilly blouse with bow and puffed sleeves, muted emerald green suspender dress with four gold buttons, white stockings and dark brown boots. Rich crisp dark teal outlines, elegant decorative icing shapes, cel shading, readable silhouette. A few small icy blue sugar stars float near her outstretched hand. Confident charming standing battle-ready pose facing slightly right. No existing franchise characters or logos.
